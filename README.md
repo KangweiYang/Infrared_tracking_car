@@ -1,6 +1,6 @@
 # Infrared_tracking_car
 my infrared tracking car, maincontroler is STM32F401CCU6, has matrix keyboard and 2 motors with brush. IDE is Keil
-`dirctory tree:
+```dirctory tree:
 └── Infrared_tracking_car
     ├── EventRecorderStub.scvd
     ├── Hardware
@@ -138,4 +138,5 @@ my infrared tracking car, maincontroler is STM32F401CCU6, has matrix keyboard an
         ├── stm32f4xx_it.c
         └── stm32f4xx_it.h
 
-7 directories, 129 files`
+7 directories, 129 files
+```
